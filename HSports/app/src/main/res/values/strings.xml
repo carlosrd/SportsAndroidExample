@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HSports</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="act_sportsmen_action_reload">Reload</string>
+
+    <string name="frag_sporstmen_lbl_spinner">Choose a sport:</string>
+    <string name="frag_sportsmen_lbl_error_status_code">Error: @statusCode received from the server during connection..."</string>
+    <string name="frag_sportsmen_lbl_unknown_error">An unknown error occurred \n Please try again...</string>
+
+</resources>
